@@ -51,7 +51,7 @@
 
 ---
 
-## 开源许可（如适用）
+## 参考引用
 
-本工具基于 [IconLib](https://github.com/dahall/IconLib) 实现图标提取，该库遵循 MIT 协议。
+本工具基于 [IconLib](https://github.com/pierresprim/IconLib) 实现图标提取
 
